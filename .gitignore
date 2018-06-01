@@ -1,0 +1,11 @@
+.cache
+node_modules
+package-lock.json
+.DS_Store
+.idea
+*.log
+.vscode
+dist
+build
+lib
+packages/components/styleguide/index.html
